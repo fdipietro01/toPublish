@@ -1,12 +1,20 @@
 {
-  "name": "src",
+  "name": "@fdipietro01/topublish",
   "version": "1.0.0",
-  "description": "",
-  "main": "suma.js",
+  "description": "Este es un proyecto de suma/resta para probar publicar en npm repository.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdipietro01/toPublish.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdipietro01/toPublish/issues"
+  },
+  "homepage": "https://github.com/fdipietro01/toPublish#readme"
 }
